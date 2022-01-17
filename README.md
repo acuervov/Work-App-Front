@@ -4,7 +4,7 @@
 
 </br>
 
-Clonar el repositorio
+Clonar el repositorio1
 
 ```bash
   git clone https://github.com/lucasfer01/Work-App-Front.git
